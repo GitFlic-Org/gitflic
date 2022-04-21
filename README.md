@@ -26,6 +26,8 @@ GitFlic  завершил стадию Beta-тестирования, котор
 
 С уважением, команда GitFlic
 
+---
+
 Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic) 
 
 Поддержка:  [support@gitflic.ru](mailto:support@gitflic.ru)
