@@ -4,6 +4,8 @@
 
 Обязательно прочитайте инструкцию по обновлению с версии 2.х.х до версии 3.х.х по [ссылке](https://docs.gitflic.space/setup/update_to_3.x.x).
 
+Для корректной работы CI/CD не забудьте обновить [GitFlic Runner](https://gitflic.ru/project/gitflic/runner/release/7b68627e-42af-4e4a-af16-173cb9881b60)
+
 ### Добавили:
 
 + Git-blame
