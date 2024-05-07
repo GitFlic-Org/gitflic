@@ -25,6 +25,7 @@
 + Кнопку для сброса кэша в задачах CI/CD
 + Автоматическую отмену конвейеров
 + Результирующий конвейер для ЗнС (Self-hosted Enterprise)
++ Интеграция  с динамическим анализатором кода - DAST (Self-hosted Enterprise)
 + Поддержку rules:if/when для include в конфигурационном файле CI/CD (Self-hosted)
 + Аутентификация и чтение секретов в Vault через Gitflic CI (Self-hosted)
 + Планировщик конвейеров (Self-hosted)
