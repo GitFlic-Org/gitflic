@@ -1,0 +1,31 @@
+image: debian:latest
+
+stages:
+  - build
+  - rustore
+
+build-apk:
+  stage: build
+  scripts:
+    - echo "Делаю build"
+  artifacts:
+    paths:
+      - app.apk
+
+deploy-app:
+  stage: rustore
+  before_scripts:
+    - apt-get update
+    - apt-get install bash
+    - apt-get -y install curl
+    - apt-get -y install openssl
+  scripts:
+    # Для корректной работы скрипта необходимо объявить переменные
+    # Добавьте их в настройках проекта
+    # RS_PRIVATE_KEY - приватный ключ приложения в RuStore,
+    # RS_KEY_ID - идентификатор приватного ключа RuStore
+    - bash rustore-deploy.sh
+  needs: build-apk
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+      when: manual
