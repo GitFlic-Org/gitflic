@@ -1,3 +1,11 @@
+## 3.3.1 Что нового:
+
+### Исправили:
+
+* Метод слияния с типом Semi-linear history
+
+---
+
 ## 3.3.0 Что нового:
 
 Для корректной работы CI/CD не забудьте обновить [GitFlic Runner](https://gitflic.ru/project/gitflic/runner/release/latest)
