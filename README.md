@@ -1,4 +1,9 @@
-## Добро пожаловать!
+<div style="position: relative;">
+  <img src="https://gitflic.ru/project/gitflic/newsflic/blob/raw?file=src/verified-%20GF_left.png&commit=53d8365c730901ed2b6fd85e6bf63d235fdec555" alt="Описание изображения" style="display: block; max-width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-align: left; padding: 0 2%; box-sizing: border-box; width: 100%; font-size: calc(8px + 1.5vw); white-space: nowrap;">
+    Добро пожаловать!
+  </div>
+</div>
 
 Представляем Вам *GitFlic* - Российская платформа для разработчиков. 
 
