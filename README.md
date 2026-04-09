@@ -37,5 +37,6 @@ GitFlic завершил стадию Beta-тестирования в октя�
 ---
 
 Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic) 
+MAX: [Чат](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [Новости](https://max.ru/id9704054697_biz)
 
 Поддержка:  [support@gitflic.ru](mailto:support@gitflic.ru)
