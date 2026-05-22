@@ -1,0 +1,11 @@
+**/.idea
+**/.obsidian
+**/.vscode
+**/.devcontainers
+
+###Macos
+**/.DS_Store
+*.icloud
+
+###System
+**/_*
