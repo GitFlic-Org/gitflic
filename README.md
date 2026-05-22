@@ -5,40 +5,78 @@
   </div>
 </div>
 
-Представляем Вам *GitFlic* - Российская платформа для разработчиков. 
+# GitFlic — Git-хостинг и DevOps-платформа для разработчиков
 
-GitFlic завершил стадию Beta-тестирования в октябре 2021 и продолжает свое развитие. Приглашаем Вас стать нашими пользователями и друзьями =)
+GitFlic — российская платформа для разработчиков и команд, которая предоставляет Git-репозитории, управление исходным кодом, code review, трекинг задач, CI/CD, реестр пакетов, документацию и инструменты для совместной работы.
 
-### Делитесь мнением.
+# GitFlic — Git hosting and DevOps platform for developers
 
-Мы будем благодарны, если Вы дадите обратную связь по использованию нашего сервиса: укажете на ошибки, недочеты, а также поделитесь идеями по улучшению GitFlic. Записать их можно в этом [проекте](https://gitflic.ru/project/gitflic/gitflic/issue).
+GitFlic is a Russian platform for developers and teams that provides Git repositories, source code management, code review, issue tracking, CI/CD, package registry, documentation, and collaboration tools.
 
-Мы дадим ответы на все Ваши предложения, ничего не останется без внимания.
+## Что такое GitFlic?
 
-Вы можете отмечать найденные проблемы по сервису в этом проекте. Для оформления проблемы используйте следующий шаблон:
+GitFlic помогает разработчикам хранить код, управлять репозиториями, проверять изменения, автоматизировать сборку и развёртывание, отслеживать задачи и совместно работать над программными проектами.
 
-* Понятное название
-* Расписаны шаги для вызова ошибки, можно добавить картинку
-* Фактический результат
-* Ожидаемый результат
+## What is GitFlic?
 
-### Следите за обновлениями.
+GitFlic helps developers store code, manage repositories, review changes, automate builds and deployments, track issues, and collaborate on software projects.
 
-Мы, команда разработчиков, делимся результатом о проделанной работе. Все актуальные изменения сервиса указаны в [заметках о выпуске](https://gitflic.ru/project/gitflic/gitflic/file?file=release).
 
-### Изучите возможности сервиса.
+## Основные возможности
 
-Если у вас возникли вопросы как работает та или иная функция в сервисе, обратитесь к документации GitFlic. В ней описан весь функционал сервиса и непонятные моменты регулярно перефразируются более подробно. Документ доступен по ссылке [https://docs.gitflic.ru](https://docs.gitflic.ru)
+- Git-репозитории и управление исходным кодом
+- Code review и merge requests
+- Трекинг задач и управление проектами
+- CI/CD-пайплайны
+- Реестр пакетов
+- Документация для команд и разработчиков
+- Публичные и приватные репозитории
+- Инструменты для open-source и коммерческой разработки
 
-Благодарим за участие и ваш вклад!
+## Key features
 
-### Legal
+- Git repositories and source code management
+- Code review and merge requests
+- Issue tracking and project management
+- CI/CD pipelines
+- Package registry
+- Documentation for teams and developers
+- Public and private repositories
+- Tools for open-source and commercial development
+
+## Полезные ссылки
+
+- Сайт: https://gitflic.ru
+- Документация: https://docs.gitflic.ru
+- Релизы: https://gitflic.ru/project/gitflic/gitflic/release
+- Поддержка: support@gitflic.ru
+
+## Useful links
+
+- Website: https://gitflic.ru
+- Documentation: https://docs.gitflic.ru
+- Release notes: https://gitflic.ru/project/gitflic/gitflic/release
+- Support: support@gitflic.ru
+
+## Обратная связь и сообщения об ошибках
+
+Вы можете сообщать об ошибках, предлагать улучшения и оставлять обратную связь в проекте обратной связи GitFlic.
+
+## Feedback and bug reports
+
+You can report bugs, suggest improvements, and share feedback in the GitFlic feedback project.
+
+## Правовая информация
+
+- [Политика лицензирования self-hosted](docs/legal/self-hosted-licensing-policy.md)
+- [Лицензионное соглашение с конечным пользователем self-hosted](docs/legal/self-hosted-eula.md)
+
+## Legal
 
 - [Self-hosted Licensing Policy](docs/legal/self-hosted-licensing-policy.md)
 - [Self-hosted End User License Agreement](docs/legal/self-hosted-eula.md)
 
 С уважением, команда GitFlic
-
 ---
 
 Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic)
@@ -46,3 +84,12 @@ GitFlic завершил стадию Beta-тестирования в октя�
 MAX: [Чат](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [Новости](https://max.ru/id9704054697_biz)
 
 Поддержка:  [support@gitflic.ru](mailto:support@gitflic.ru)
+
+Best regards, The GitFlic Team
+---
+
+Telegram: [Chat](https://t.me/gitflic_chat) | [News](https://t.me/gitflic)
+
+MAX: [Chat](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [News](https://max.ru/id9704054697_biz)
+
+Support: [support@gitflic.ru](mailto:support@gitflic.ru)
