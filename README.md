@@ -49,6 +49,7 @@ GitFlic helps developers store code, manage repositories, review changes, automa
 ## Обратная связь и сообщения об ошибках
 
 Вы можете сообщать об ошибках, предлагать улучшения и оставлять обратную связь в проекте обратной связи GitFlic.
+
 You can report bugs, suggest improvements, and share feedback in the GitFlic feedback project.
 
 С уважением, команда GitFlic
