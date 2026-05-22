@@ -1,13 +1,13 @@
-# GitFlic License
+# Лицензия GitFlic
 
-The GitFlic software is provided under a commercial/self-hosted license and is not distributed as open-source software through this repository.
+Программное обеспечение GitFlic предоставляется на условиях коммерческой лицензии для self-hosted / локального использования и не распространяется как программное обеспечение с открытым исходным кодом через данный репозиторий.
 
-For the full licensing terms, see:
+Полные условия лицензирования доступны в документах:
 
-- [Self-hosted Licensing Policy](docs/legal/self-hosted-licensing-policy.md)
-- [Self-hosted End User License Agreement](docs/legal/self-hosted-eula.md)
+- [Политика лицензирования self-hosted](docs/legal/self-hosted-licensing-policy.md)
+- [Лицензионное соглашение с конечным пользователем self-hosted](docs/legal/self-hosted-eula.md)
 
-The current versions of the licensing documents are available at:
+Актуальные версии лицензионных документов доступны по адресам:
 
 - https://gitflic.ru/docs/policy-sh
 - https://gitflic.ru/docs/license-sh
