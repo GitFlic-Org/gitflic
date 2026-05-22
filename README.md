@@ -32,11 +32,17 @@ GitFlic завершил стадию Beta-тестирования в октя�
 
 Благодарим за участие и ваш вклад!
 
+### Legal
+
+- [Self-hosted Licensing Policy](docs/legal/self-hosted-licensing-policy.md)
+- [Self-hosted End User License Agreement](docs/legal/self-hosted-eula.md)
+
 С уважением, команда GitFlic
 
 ---
 
-Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic) 
+Телеграм: [Чат](https://t.me/gitflic_chat) | [Новости](https://t.me/gitflic)
+
 MAX: [Чат](https://max.ru/join/mStHJeAs4cY3bpZvn3x6f225RRP_uHZVhu1ir8YW8H0) | [Новости](https://max.ru/id9704054697_biz)
 
 Поддержка:  [support@gitflic.ru](mailto:support@gitflic.ru)
