@@ -1,5 +1,5 @@
 <div style="position: relative;">
-  <img src="https://gitflic.ru/project/gitflic/newsflic/blob/raw?file=src/verified-%20GF_left.png&commit=53d8365c730901ed2b6fd85e6bf63d235fdec555" alt="Описание изображения" style="display: block; max-width: 100%; height: auto;">
+  <img src="https://gitflic.ru/project/gitflic/newsflic/blob/raw?file=src/verified-%20GF_left.png&commit=53d8365c730901ed2b6fd85e6bf63d235fdec555" alt="GitFlic DevSecOps platform interface" style="display: block; max-width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); color: white; text-align: left; padding: 0 2%; box-sizing: border-box; width: 100%; font-size: calc(8px + 1.5vw); white-space: nowrap;">
   </div>
 </div>
@@ -45,26 +45,33 @@
 - **Enterprise-ready workflows**: centralized management of teams, repositories, permissions, artifacts, and development processes
 - **Tools for open-source and commercial development**: support for public projects, private enterprise repositories, and team-based software development
 
+
 ## Для каких задач подходит GitFlic
 
 - замена GitLab или GitHub для команды разработки;
 - хостинг приватных и публичных Git-репозиториев;
-- миграция проектов из GitLab;
+- миграция проектов из GitLab и других Git-платформ;
 - организация code review и merge requests;
-- запуск CI/CD-конвейеров;
-- хранение пакетов и контейнерных образов;
+- настройка правил merge requests, обязательных проверок и политик доступа;
+- запуск CI/CD-конвейеров и deployment pipelines;
+- хранение пакетов, контейнерных образов и build-артефактов;
+- замена Sonatype Nexus, JFrog Artifactory и Harbor для управления пакетами, контейнерами и артефактами;
 - внедрение DevSecOps-практик: SAST, DAST, SCA;
+- аудит действий пользователей и централизованное управление процессами разработки;
 - self-hosted-развертывание в собственном контуре.
 
 ### What GitFlic is suitable for
 
 - replacing GitLab or GitHub for a development team;
 - hosting private and public Git repositories;
-- migrating projects from GitLab;
+- migrating projects from GitLab and other Git platforms;
 - organizing code review and merge requests;
-- running CI/CD pipelines;
-- storing packages and container images;
+- configuring merge request rules, required checks, and access policies;
+- running CI/CD pipelines and deployment pipelines;
+- storing packages, container images, and build artifacts;
+- replacing Sonatype Nexus, JFrog Artifactory, and Harbor for package, container, and artifact management;
 - implementing DevSecOps practices: SAST, DAST, SCA;
+- auditing user activity and centralizing development governance;
 - self-hosted deployment within your own infrastructure.
 
 ## GitFlic как альтернатива GitLab
@@ -77,7 +84,7 @@
 
 ### GitFlic as a GitLab alternative
 
-**GitFlic can be used as a GitLab fully alternative** for teams that need a unified platform for source code management, collaborative development, CI/CD, DevSecOps workflows, and secure software delivery. The platform combines Git repositories, code review, merge requests, issue tracking, CI/CD pipelines, documentation, package and container registries, security tools, audit capabilities, and centralized access management.
+**GitFlic can be used as a complete alternative to GitLab** for teams that need a unified platform for source code management, collaborative development, CI/CD, DevSecOps workflows, and secure software delivery.. The platform combines Git repositories, code review, merge requests, issue tracking, CI/CD pipelines, documentation, package and container registries, security tools, audit capabilities, and centralized access management.
 
 **GitFlic covers the key GitLab use cases**: hosting public and private repositories, managing branches and access permissions, configuring merge request rules, enforcing required checks before merging, reviewing code, automating builds and tests, running deployment pipelines, managing issues, publishing packages and container images, and tracking user activity and project changes.
 
