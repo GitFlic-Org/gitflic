@@ -1,29 +1,53 @@
-**4.12.1 What's new:**
+# 4.12.2 Что нового:
 
-## Added:
+## Исправили:
 
-+ CI/CD variable with project UUID
-+ CI/CD variable with local ID of task and event (MR)
-
-## Fixed:
-+ Display of registry repository management buttons on the instance for all users
-+ Links to view file history via blame
-+ Null Pointer error when importing an archive from GitLab
-+ Getting refs for projects in groups
-+ Creation of proxying registry repositories in a company and projects
++ Отображение тултипа в дереве файлов
++ Некорректную обработка символов "«" и "»" в разделе "Просмотр изменений"
++ Ошибки в работе якорных ссылок
++ Переход в профиль по аватарки на странице коммитов
++ Ошибки при рассылке на почту
++ Пагинацию на странице коммитов в ЗнС*
++ Нумерацию страниц в глобальном поиске
++ Отображение кнопок управления при просмотре публичных компаний
++ Работа фильтров ЗнС и Проблем при переходе по ссылке с сохраненым фильтром
++ Некорректное выделение строк кода из просмотра файла
++ Поиск ответственных при создании правила одобрения ЗнС в командах и компаниях
++ Отображение установленных условий очистки при редактировании политики очистки
++ Ошибки при монтировании во время пуша Docker образа
++ Парсинг Markdown в README-файлах
++ Отображение большого диффа при создании ЗнС
++ Ошибку при запуске GitFlic-CLI
 
 ---
 
-**4.12.0 What's new:**
+# 4.12.1 Что нового:
 
-## Added:
+## Добавили:
 
-+ Routing rules for the proxying repository registry and package registry (Enterprise / Atlas)
-+ Support for OpenSearch versions 2 and 3 (Enterprise)
-+ Predefined variable CI_MERGE_REQUEST_LOCAL_ID
++ Переменную в CI/CD с UUID проекта
++ Переменную в CI/CD с локальным ID задачи и события (ЗнС)
 
-## Fixed:
+## Исправили:
 
-+ Code highlighting when viewing a SAST report in the security tab
-+ Searching for approvers when creating an MR rule in a project
-+ Validation of the regular expression for the project when creating a Jira integration. Now numbers can be used.
++ Отображение кнопок управления репозиториями реестра на инстансе для всех пользователей
++ Ссылки на просмотр истории файла через blame
++ Ошибку Null Pointer при импорте архива из GitLab
++ Получение refs для проектов в группах
++ Создание проксирующих репозиториев реестра в компании и проектах
+
+---
+
+# 4.12.0 Что нового:
+
+## Добавили:
+
++ Правила маршрутизации для проксирующего реестра репозиториев и реестра пакетов (Enterprise / Atlas)
++ Поддержку OpenSearch 2 и 3 версий (Enterprise)
++ Предопределенную переменную CI_MERGE_REQUEST_LOCAL_ID
+
+## Исправили:
+
++ Подсветка кода  при просмотре SAST отчета на вкладке безопасности
++ Поиск ответственных при создании правила ЗнС в проекте
++ Валидацию регулярного выражения для проекта при создании интеграци Jira. Теперь можно использовать цифры.
